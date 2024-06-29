@@ -1,0 +1,12 @@
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1718025014955/work/certifi
+numpy @ file:///D:/bld/numpy_1649806536290/work
+opencv-python==4.6.0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1696202382185/work
+ply @ file:///home/conda/feedstock_root/build_artifacts/ply_1712242996588/work
+PyQt5==5.15.7
+PyQt5-sip @ file:///D:/bld/pyqt-split_1665676787902/work/pyqt_sip
+sip @ file:///D:/bld/sip_1665592565341/work
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+torch==1.11.0
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
+wincertstore==0.2
