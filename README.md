@@ -2,6 +2,9 @@
 Just download this project to your computer
 
 ## launch
-follow this command from the project folder 
+follow this commands from the project folder 
+
+conda env create -f environment.yml
+conda activate env_py37
 
 python.exe ./Main.py
