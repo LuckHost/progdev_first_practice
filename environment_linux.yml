@@ -1,4 +1,4 @@
-name: myenv
+name: env_py37
 channels:
   - pytorch
   - conda-forge
@@ -6,14 +6,14 @@ channels:
 dependencies:
   - certifi
   - numpy
-  - opencv-python==4.6.0
+  - opencv=4.6.0
   - packaging
   - ply
-  - PyQt5==5.15.7
-  - PyQt5-sip
+  - pyqt=5.15.7
+  - pyqt5-sip
   - sip
   - toml
-  - torch==1.11.0
+  - pytorch=1.11.0
   - typing_extensions
   - sqlite
   - py-opencv
