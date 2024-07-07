@@ -14,11 +14,3 @@ python.exe ./Main.py
 
 ### Linux
 
-conda create --name env_py37 python=3.7.12 -y
-source $(conda info --base)/etc/profile.d/conda.sh
-conda activate env_py37
-
-pip install -r requirements.txt
-
-py ./Main.py
-(or use any command to run Python files)
