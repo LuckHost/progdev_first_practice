@@ -1,0 +1,23 @@
+name: myenv
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - certifi
+  - numpy
+  - opencv-python==4.6.0
+  - packaging
+  - ply
+  - PyQt5==5.15.7
+  - PyQt5-sip
+  - sip
+  - toml
+  - torch==1.11.0
+  - typing_extensions
+  - sqlite
+  - py-opencv
+  - pip
+  - pcre2
+  - openssl
+  - openh264
