@@ -20,4 +20,5 @@ conda activate env_py37
 
 pip install -r requirements.txt
 
-python.exe ./Main.py
+py ./Main.py
+(or use any command to run Python files)
